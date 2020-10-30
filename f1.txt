@@ -1,4 +1,5 @@
 master 1
 develop 2
 feature -some 3
-release-1.0 4
+release-1.0 i4
+hotfix 5
